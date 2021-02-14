@@ -1,0 +1,61 @@
+h1 {
+  text-align: center;
+  font-size: 120px;
+  color: white;
+}
+
+body {
+  background-image: url(rMqGum.gif);
+}
+
+h2 {
+  font-size: 50px;
+  color: white;
+}
+
+img {
+  width: 500px;
+  display: inline-block;
+  border-radius: 100px;
+}
+
+p {
+  font-size: 30px;
+  color: white;
+}
+
+.box {
+  display: flex;
+  margin-left: 15px;
+  justify-content: space-between;
+}
+
+.box1,
+.img1 {
+  font-size: 40px;
+  float: top;
+  float: right;
+  color: white;
+}
+
+.box2,
+.img2 {
+  font-size: 40px;
+  float: top;
+  float: left;
+  color: white;
+}
+
+.box3,
+.img3 {
+  font-size: 40px;
+  float: top;
+  float: right;
+  color: white;
+}
+
+.box4,
+.img4 {
+  font-size: 40px;
+  padding: 100px 100px 50px 150px;
+}
